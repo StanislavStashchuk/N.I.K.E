@@ -29,9 +29,9 @@ body {
 .blue__background {
     background-image: url('/img/nike__background__rain.png');
     background-repeat: no-repeat;
-    height: 600px;
+    height: 598px;
     width: 800px;
-    opacity: .7;    
+    opacity: .7;
 }
 
 .nike__container {
