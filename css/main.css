@@ -27,17 +27,21 @@ body {
 /*-----nike__container-----*/
 /*--------------------------*/
 .blue__background {
-    background-image: url('/img/nike__background__rain.png');
-    background-repeat: no-repeat;
     height: 598px;
     width: 800px;
     opacity: .7;
+    z-index: 1;
 }
 
 .nike__container {
     z-index: 2;
     justify-content: center;
     align-items: center;
+    margin: 0 auto;
+}
+
+.nike__container img{
+    padding: 0 0 0 0;
 }
 /*---------------------*/
 /*-----nike__post-----*/
